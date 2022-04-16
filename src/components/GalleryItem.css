@@ -1,0 +1,11 @@
+.gallery-item-container {
+    display: flex;
+    background-color: rgb(207, 206, 205);
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+
+.gallery-img{
+    width: 100%;
+}
